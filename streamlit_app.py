@@ -11,7 +11,7 @@ st.subheader("Upload Gambar dan Edit secara Real-Time!!!")
 #Sidebar
 st.sidebar.markdown('<p class="font">Aplikasi Edit Gambar</p>', unsafe_allow_html=True)
 with st.sidebar.expander("Tentang Aplikasi"):
-     st.write("""Aplikasi Simpel Mudah dan Cepat digunakan untuk mengedit gambar dalam format JPG,PNG dan JPEG yang memanfaatkan library openCV, Streamlit dan Numpy.
+     st.write("""Aplikasi Simpel Mudah dan Cepat digunakan untuk mengedit gambar dalam format JPG,PNG dan JPEG yang memanfaatkan library openCV, Streamlit dan Numpy.\n10116361 Reka Saepul Anwar
      """)
 
 #Upload Gambar
