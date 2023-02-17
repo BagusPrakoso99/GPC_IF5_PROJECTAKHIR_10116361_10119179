@@ -1,0 +1,10 @@
+Aplikasi dapat dijalankan bila telah mendownload&install library pada [requirements.txt]
+
+Aplikasi dapat juga langsung dijalan kan pada link berikut:
+https://bagusprakoso99-gpc-if5-projectakhir-101163-streamlit-app-gw61id.streamlit.app/
+
+Anggota Kelompok:
+
+IF-5
+10116361 Reka Saepul Anwar
+10119179 Muhamad Bagus Prakoso
