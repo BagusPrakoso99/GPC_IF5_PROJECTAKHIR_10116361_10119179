@@ -15,6 +15,8 @@ with st.sidebar.expander("Tentang Aplikasi"):
               """)
      st.write("""10116361 Reka Saepul Anwar
               """)
+     st.write("""10119179 Muhamad Bagus Prakoso
+              """)
 
 #Upload Gambar
 uploaded_file = st.file_uploader("", type=['jpg','png','jpeg'])
